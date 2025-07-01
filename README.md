@@ -80,11 +80,7 @@ streamlit run app.py
 
 * Patient Name, Age, Mobile, and Address
 
-* Uploaded Image  (Accepts .jpg, .jpeg, .png image)
-
 * Segmentation Output
-
-* Classification Result
 
 * Timestamp
 
