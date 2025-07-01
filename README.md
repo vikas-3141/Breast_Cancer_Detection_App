@@ -12,7 +12,7 @@ This is a web-based diagnostic application for **Breast Cancer Detection** using
 - Web-based interface via Streamlit
 - Generates downloadable PDF report
 - Real-time predictions from uploaded images
-- Built-in model options: best, medium, and low accuracy
+- Built-in model options: best
 
 ---
 
