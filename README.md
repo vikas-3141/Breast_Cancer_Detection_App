@@ -1,7 +1,7 @@
 # 🧠 Breast Cancer Detection App (Ultrasound Based)
-A deep learning-based Streamlit application for breast cancer diagnosis using ultrasound images. It supports tumor segmentation and classification (Benign vs. Malignant) using trained PyTorch models. Includes multiple trained models for performance comparison and a PDF diagnostic report generator.
 
-This is a web-based diagnostic application for **Breast Cancer Detection** using **Ultrasound Images**. The app performs **tumor segmentation** and **classification** (Benign / Malignant / Normal) using deep learning (PyTorch), and it is built with **Streamlit** for an interactive UI.
+A deep learning-powered diagnostic web application for **Breast Cancer Detection** using **ultrasound images**. This Streamlit-based tool performs **tumor segmentation** and **classification** into **Benign**, **Malignant**, or **Normal** categories using pre-trained **PyTorch models**. It supports uploading custom images, selecting trained model (e.g., best), and generates a professional **PDF diagnostic report** with patient details and prediction results.
+
 
 ---
 
