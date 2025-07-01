@@ -1,0 +1,4 @@
+pip install streamlit torch torchvision torchaudio
+pip install matplotlib seaborn opencv-python
+pip install albumentations segmentation-models-pytorch
+pip install fpdf scikit-learn tqdm
