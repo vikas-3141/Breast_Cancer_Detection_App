@@ -1,4 +1,4 @@
-# 🧠 Breast Cancer Detection App (Ultrasound Based)
+![image](https://github.com/user-attachments/assets/172bff82-66b4-4c64-9686-d5bf15182d41)# 🧠 Breast Cancer Detection App (Ultrasound Based)
 
 A deep learning-powered diagnostic web application for **Breast Cancer Detection** using **ultrasound images**. This Streamlit-based tool performs **tumor segmentation** and **classification** into **Benign**, **Malignant**, or **Normal** categories using pre-trained **PyTorch models**. It supports uploading custom images, selecting trained model (e.g., best), and generates a professional **PDF diagnostic report** with patient details and prediction results.
 
@@ -57,6 +57,8 @@ pip install opencv-python pillow albumentations segmentation-models-pytorch
 pip install matplotlib seaborn fpdf scikit-learn tqdm
 
 
+
+
 🚀 Run the Application
 
 streamlit run app.py
@@ -85,6 +87,10 @@ streamlit run app.py
 * Models: .pth files (BestModel) are loaded for prediction
 * .venv/ and __pycache__/ should be excluded from Git commits
 * App is fast, private, and self-contained
+
+🛡️ Disclaimer
+
+This tool is intended for educational and experimental use only. It is not a replacement for professional medical diagnosis. Always consult a dermatologist for accurate evaluation.
 
 
 📧 Contact
